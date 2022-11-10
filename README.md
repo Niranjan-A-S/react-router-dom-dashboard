@@ -1,4 +1,4 @@
-# React Router6
+# React Router 6
 
 #### React Course
 
